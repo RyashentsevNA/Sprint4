@@ -1,8 +1,6 @@
 import allure
-
 from page_objects import Question_Program
 from selenium.webdriver.common.by import By
-
 
 class TestProgram:
 

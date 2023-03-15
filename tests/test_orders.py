@@ -1,9 +1,7 @@
 import allure
 from selenium.webdriver.common.by import By
-
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
-
 from page_objects import Question_Program, Main_Page, Form_Order, About_Rent, YandexButton
 
 
